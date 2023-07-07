@@ -1,0 +1,18 @@
+<svg width="706" height="768" viewBox="0 0 706 768" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Prototype">
+<path id="Bottom-Square" d="M658.981 596.216L339.994 471.044C335.028 469.096 329.49 469.212 324.611 471.366L41.0731 596.535C25.234 603.527 25.1588 625.975 40.9507 633.073L324.495 760.521C329.442 762.744 335.079 762.864 340.115 760.852L659.096 633.407C675.924 626.683 675.851 602.836 658.981 596.216Z" stroke="url(#paint0_linear_4_4)" stroke-width="10"/>
+<path id="Shaded-Gradient" d="M28 604L194 102H514L670 604H28Z" fill="url(#paint1_linear_4_4)"/>
+<path id="Upper-Square" d="M507.571 81.9591L355.907 6.5745C350.13 3.70329 343.323 3.79453 337.626 6.81954L195.637 82.2067C181.403 89.7642 181.495 110.192 195.797 117.62L337.781 191.366C343.394 194.281 350.056 194.37 355.745 191.603L507.415 117.855C522.348 110.594 522.441 89.3499 507.571 81.9591Z" fill="#ff9213" stroke="#875326" stroke-opacity="0.55" stroke-width="7"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_4_4" x1="332" y1="420" x2="342" y2="806" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ff9213"/> <!--main color-->
+<stop offset="0.503193" stop-color="#ff870c" stop-opacity="0.84401"/> <!--bSqStroke -->
+<stop offset="1" stop-color="#ff9213" stop-opacity="0.53"/>
+</linearGradient>
+<linearGradient id="paint1_linear_4_4" x1="349" y1="102" x2="349" y2="604" gradientUnits="userSpaceOnUse">
+<stop offset="0.334661" stop-color="#8b5a27"/> <!--shaded gradient -->
+<stop offset="1" stop-color="#8b5a27" stop-opacity="0.02"/>
+</linearGradient>
+</defs>
+</svg>
